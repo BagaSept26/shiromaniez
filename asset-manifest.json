@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shiromaniez/static/css/main.8ccdcd88.css",
+    "main.js": "/shiromaniez/static/js/main.6919dc9b.js",
+    "static/media/salon.png": "/shiromaniez/static/media/salon.543652f00100a0c74c7b.png",
+    "static/media/logo1.jpg": "/shiromaniez/static/media/logo1.c4c9acc1a24dc7f11203.jpg",
+    "static/media/logo2.jpg": "/shiromaniez/static/media/logo2.56a706e4afc844fe51b4.jpg",
+    "static/media/sitting.png": "/shiromaniez/static/media/sitting.d6f1a53611466348098b.png",
+    "static/media/logo1.svg": "/shiromaniez/static/media/logo1.0c147f1d558ffa53747cdc68ebf32e07.svg",
+    "static/media/pv.png": "/shiromaniez/static/media/pv.35ca3b052ad125e2f9c9.png",
+    "static/media/phone.svg": "/shiromaniez/static/media/phone.ad26d778814739484a08c873089bb551.svg",
+    "index.html": "/shiromaniez/index.html",
+    "main.8ccdcd88.css.map": "/shiromaniez/static/css/main.8ccdcd88.css.map",
+    "main.6919dc9b.js.map": "/shiromaniez/static/js/main.6919dc9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ccdcd88.css",
+    "static/js/main.6919dc9b.js"
+  ]
+}
